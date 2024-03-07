@@ -340,6 +340,12 @@ margin-left: 105px;
   width: 90%;
   height: 90%;
 }
+.myntra-logo{
+  width: 200px;
+}
+.message-logo{
+  width: 250px;
+}
 .project-title{
   margin: 1rem;
   color: black;
